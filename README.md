@@ -1,4 +1,4 @@
-<h1 align="center">YOOO! Waddup?</h1>
+<h1 align="center">Sup!</h1>
 
 - 🔭 I’m currently working on **Notovia Roleplay and DevUtils Discord Bot**
 
