@@ -1,6 +1,6 @@
 <h1 align="center">Sup!</h1>
 
-- 🔭 I’m currently working on **Notovia Roleplay and DevUtils Discord Bot**
+- 🔭 I’m currently working on **Notovia Roleplay and Metahond Software**
 
 - 🌱 I’m currently learning **Backend/Frontend Frameworks like React, NestJS, ...**
 
