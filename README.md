@@ -1,4 +1,6 @@
-<h1 align="center">Sup!</h1>
+![Fl4wless Banner Image](./github-readme-banner.png)
+
+<h1>Hi, I'm Noah! 👋</h1>
 
 - 🔭 I’m currently working on **Metahond Software**
 
