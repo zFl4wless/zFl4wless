@@ -2,7 +2,7 @@
   <img src="./github-readme-banner.png" />
 </a>
 
-<h1>Hi, I'm Noah! 👋</h1>
+# Hi, I'm Noah! 👋
 
 - 🔭 I’m currently working on **Metahond Software**
 
