@@ -1,5 +1,5 @@
 <a href="https://fl4wless.de">
-  <img src="./github-readme-banner.png" />
+  <img src="./banner.png" />
 </a>
 
 # Hi, I'm Noah! 👋
