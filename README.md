@@ -10,4 +10,4 @@
 
 - 👨‍💻 All of my projects are available at [https://fl4wless.de](https://fl4wless.de)
 
-- 📫 Reach me on discord: **Fl4wless#0745 (377130565129863169)**
+- 📫 Reach me on discord: **fl4wless (377130565129863169)**
