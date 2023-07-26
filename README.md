@@ -4,7 +4,7 @@
 
 # Hi, I'm Noah! 👋
 
-- 🔭 I’m currently working on **Metahond Software**
+- 🔭 I’m currently working on **Metahond Software** and **Sharesphere**
 
 - 🌱 I’m currently learning **ReactJs** and **Laravel**
 
