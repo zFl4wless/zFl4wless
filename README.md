@@ -14,7 +14,7 @@
 
 ## Projects 🗂
 
-Some good projects I currently work on...
+Some good projects I currently work on! *(Click the Logos to visit the projects)*
 
 Hondicard|R6 Cards|
 :---:|:---:
