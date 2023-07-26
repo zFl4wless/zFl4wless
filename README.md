@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Metahond Software**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** and **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://fl4wless.de](https://fl4wless.de)
 
