@@ -9,7 +9,8 @@ Wondering what I’ve been up to lately?
 #### See what I’m working on right now
 
 
-- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (1 day ago)
+- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (4 days ago)
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) - Discord bot that interacts with the WakaTime api and showing coding stats to the users. (1 month ago)
 - [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (1 month ago)
 - [zFl4wless/advent-of-code-2025](https://github.com/zFl4wless/advent-of-code-2025) - My solutions for Advent of Code 2025 written in PHP. (3 months ago)
@@ -22,5 +23,6 @@ Wondering what I’ve been up to lately?
 #### Check out the latest releases I’ve helped with
 
 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v0.1.0](https://github.com/zFl4wless/sc2am/releases/tag/v0.1.0), 1 week ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 6 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
