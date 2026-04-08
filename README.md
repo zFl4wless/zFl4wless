@@ -9,7 +9,7 @@ Wondering what I’ve been up to lately?
 #### See what I’m working on right now
 
 
-- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (4 days ago)
+- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (2 weeks ago)
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) - Discord bot that interacts with the WakaTime api and showing coding stats to the users. (1 month ago)
 - [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (2 months ago)
@@ -24,5 +24,5 @@ Wondering what I’ve been up to lately?
 
 
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v1.0.0](https://github.com/zFl4wless/sc2am/releases/tag/v1.0.0), 1 week ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 6 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
