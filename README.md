@@ -23,6 +23,6 @@ Wondering what I’ve been up to lately?
 #### Check out the latest releases I’ve helped with
 
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.9.1](https://github.com/shopware/shopware/releases/tag/v6.7.9.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.9.1](https://github.com/shopware/shopware/releases/tag/v6.7.9.1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v1.1.0](https://github.com/zFl4wless/sc2am/releases/tag/v1.1.0), 2 weeks ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 7 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
