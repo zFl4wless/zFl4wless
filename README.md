@@ -9,9 +9,9 @@ Wondering what I’ve been up to lately?
 #### See what I’m working on right now
 
 
-- [Simplarix/simpledpp-templates](https://github.com/Simplarix/simpledpp-templates) - Open template catalog for SimpleDPP global product passport templates. (1 day ago)
+- [Simplarix/simpledpp-templates](https://github.com/Simplarix/simpledpp-templates) - Open template catalog for SimpleDPP global product passport templates. (2 days ago)
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (1 week ago)
-- [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) - 8-bit real-time multiplayer Battleship for the browser. (4 weeks ago)
+- [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) - 8-bit real-time multiplayer Battleship for the browser. (1 month ago)
 - [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (2 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) - Discord bot that interacts with the WakaTime api and showing coding stats to the users. (4 months ago)
