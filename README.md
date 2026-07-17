@@ -17,7 +17,7 @@ Wondering what I’ve been up to lately?
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) - Discord bot that interacts with the WakaTime api and showing coding stats to the users. (5 months ago)
 - [zFl4wless/advent-of-code-2025](https://github.com/zFl4wless/advent-of-code-2025) - My solutions for Advent of Code 2025 written in PHP. (7 months ago)
 - [zFl4wless/steam2steam](https://github.com/zFl4wless/steam2steam) - Compare Steam profiles side-by-side with game-specific statistics and beautiful visualizations (7 months ago)
-- [zFl4wless/sveltick](https://github.com/zFl4wless/sveltick) - See the current time in motion with a tiny visual delight that dances with every tick. (8 months ago)
+- [zFl4wless/sveltick](https://github.com/zFl4wless/sveltick) - See the current time in motion with a tiny visual delight that dances with every tick. (9 months ago)
 
 ---
 
