@@ -12,7 +12,7 @@ Wondering what I’ve been up to lately?
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (1 week ago)
 - [Simplarix/simpledpp-templates](https://github.com/Simplarix/simpledpp-templates) - Open template catalog for SimpleDPP global product passport templates. (2 weeks ago)
 - [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) - 8-bit real-time multiplayer Battleship for the browser. (1 month ago)
-- [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (2 months ago)
+- [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (3 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) - Discord bot that interacts with the WakaTime api and showing coding stats to the users. (5 months ago)
 - [zFl4wless/advent-of-code-2025](https://github.com/zFl4wless/advent-of-code-2025) - My solutions for Advent of Code 2025 written in PHP. (7 months ago)
@@ -25,5 +25,5 @@ Wondering what I’ve been up to lately?
 
 
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.20](https://github.com/shopware/shopware/releases/tag/v6.6.10.20), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v1.3.0](https://github.com/zFl4wless/sc2am/releases/tag/v1.3.0), 3 weeks ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
-- [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 9 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
+- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v1.3.0](https://github.com/zFl4wless/sc2am/releases/tag/v1.3.0), 4 weeks ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
+- [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 10 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
