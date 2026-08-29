@@ -9,7 +9,7 @@ Wondering what I’ve been up to lately?
 #### See what I’m working on right now
 
 
-- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20&#43; adapter for JSON API (3 days ago)
+- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20&#43; adapter for JSON API (4 days ago)
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Automate downloading SoundCloud tracks and importing them to Apple Music (1 week ago)
 - [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) - 8-bit real-time multiplayer Battleship for the browser. (2 months ago)
 - [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (4 months ago)
@@ -24,7 +24,7 @@ Wondering what I’ve been up to lately?
 #### Check out the latest releases I’ve helped with
 
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ([v22.0.0](https://github.com/zFl4wless/ngx-esy-jsonapi/releases/tag/v22.0.0), 4 days ago) - A lightweight Angular v20&#43; adapter for JSON API
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ([v22.0.0](https://github.com/zFl4wless/ngx-esy-jsonapi/releases/tag/v22.0.0), 5 days ago) - A lightweight Angular v20&#43; adapter for JSON API
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v1.4.1](https://github.com/zFl4wless/sc2am/releases/tag/v1.4.1), 3 weeks ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 11 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
