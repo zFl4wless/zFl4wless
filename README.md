@@ -25,6 +25,6 @@ Wondering what I’ve been up to lately?
 
 
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ([v22.0.0](https://github.com/zFl4wless/ngx-esy-jsonapi/releases/tag/v22.0.0), 1 week ago) - A lightweight Angular v20&#43; adapter for JSON API
+- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ([v22.0.0](https://github.com/zFl4wless/ngx-esy-jsonapi/releases/tag/v22.0.0), 2 weeks ago) - A lightweight Angular v20&#43; adapter for JSON API
 - [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v1.4.1](https://github.com/zFl4wless/sc2am/releases/tag/v1.4.1), 1 month ago) - Automate downloading SoundCloud tracks and importing them to Apple Music
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 11 months ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
