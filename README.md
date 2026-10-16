@@ -9,9 +9,9 @@ Wondering what I’ve been up to lately?
 #### See what I’m working on right now
 
 
-- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20&#43; adapter for JSON API (1 day ago)
-- [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) - 8-bit real-time multiplayer Battleship for the browser. (2 days ago)
-- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Bring eligible SoundCloud tracks into your existing Apple Music playlists on Mac. Import tagged MP3s locally; use Apple&#39;s sync features for iPhone listening. (6 days ago)
+- [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20&#43; adapter for JSON API (2 days ago)
+- [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) - 8-bit real-time multiplayer Battleship for the browser. (3 days ago)
+- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) - Bring eligible SoundCloud tracks into your existing Apple Music playlists on Mac. Import tagged MP3s locally; use Apple&#39;s sync features for iPhone listening. (1 week ago)
 - [Lunova-Solutions/.github](https://github.com/Lunova-Solutions/.github) -  (5 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (6 months ago)
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) - Discord bot that interacts with the WakaTime api and showing coding stats to the users. (8 months ago)
@@ -24,8 +24,8 @@ Wondering what I’ve been up to lately?
 #### Check out the latest releases I’ve helped with
 
 
-- [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) ([v1.0.1](https://github.com/zFl4wless/PixelFleet/releases/tag/v1.0.1), 2 days ago) - 8-bit real-time multiplayer Battleship for the browser.
-- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v2.1.1](https://github.com/zFl4wless/sc2am/releases/tag/v2.1.1), 6 days ago) - Bring eligible SoundCloud tracks into your existing Apple Music playlists on Mac. Import tagged MP3s locally; use Apple&#39;s sync features for iPhone listening.
+- [zFl4wless/PixelFleet](https://github.com/zFl4wless/PixelFleet) ([v1.0.1](https://github.com/zFl4wless/PixelFleet/releases/tag/v1.0.1), 3 days ago) - 8-bit real-time multiplayer Battleship for the browser.
+- [zFl4wless/sc2am](https://github.com/zFl4wless/sc2am) ([v2.1.1](https://github.com/zFl4wless/sc2am/releases/tag/v2.1.1), 1 week ago) - Bring eligible SoundCloud tracks into your existing Apple Music playlists on Mac. Import tagged MP3s locally; use Apple&#39;s sync features for iPhone listening.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.29](https://github.com/shopware/shopware/releases/tag/v6.6.10.29), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ([v22.0.1](https://github.com/zFl4wless/ngx-esy-jsonapi/releases/tag/v22.0.1), 1 month ago) - A lightweight Angular v20&#43; adapter for JSON API
 - [zFl4wless/wakatime-discord-bot](https://github.com/zFl4wless/wakatime-discord-bot) ([v1.1.0](https://github.com/zFl4wless/wakatime-discord-bot/releases/tag/v1.1.0), 1 year ago) - Discord bot that interacts with the WakaTime api and showing coding stats to the users.
