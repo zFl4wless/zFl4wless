@@ -9,9 +9,9 @@ Wondering what I’ve been up to lately?
 #### See what I’m working on right now
 
 
-- [zFl4wless/rhombot](https://github.com/zFl4wless/rhombot) -  (today)
-- [Dokploy/templates](https://github.com/Dokploy/templates) - All the open source templates integrated to dokploy 🚀 (2 days ago)
-- [Simplarix/dropwatch](https://github.com/Simplarix/dropwatch) - Self-hosted domain watcher with RDAP checks, SQLite history, Discord/email alerts, and a terminal dashboard. (2 days ago)
+- [zFl4wless/rhombot](https://github.com/zFl4wless/rhombot) -  (1 day ago)
+- [Dokploy/templates](https://github.com/Dokploy/templates) - All the open source templates integrated to dokploy 🚀 (3 days ago)
+- [Simplarix/dropwatch](https://github.com/Simplarix/dropwatch) - Self-hosted domain watcher with RDAP checks, SQLite history, Discord/email alerts, and a terminal dashboard. (3 days ago)
 - [Simplarix/dokploy-actions-runner](https://github.com/Simplarix/dokploy-actions-runner) - Community-maintained Dokploy template for self-hosted GitHub Actions runners, with non-root defaults and validated configuration. (1 week ago)
 - [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) - Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser. (1 week ago)
 - [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20&#43; adapter for JSON API (2 weeks ago)
@@ -24,9 +24,9 @@ Wondering what I’ve been up to lately?
 #### Check out the latest releases I’ve helped with
 
 
-- [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) ([main-latest](https://github.com/onlyreadai/onlyread/releases/tag/main-latest), today) - Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.16.2](https://github.com/shopware/shopware/releases/tag/v6.7.16.2), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [Simplarix/dropwatch](https://github.com/Simplarix/dropwatch) ([v0.1.16](https://github.com/Simplarix/dropwatch/releases/tag/v0.1.16), 2 days ago) - Self-hosted domain watcher with RDAP checks, SQLite history, Discord/email alerts, and a terminal dashboard.
+- [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) ([main-latest](https://github.com/onlyreadai/onlyread/releases/tag/main-latest), 1 day ago) - Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.16.2](https://github.com/shopware/shopware/releases/tag/v6.7.16.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [Simplarix/dropwatch](https://github.com/Simplarix/dropwatch) ([v0.1.16](https://github.com/Simplarix/dropwatch/releases/tag/v0.1.16), 3 days ago) - Self-hosted domain watcher with RDAP checks, SQLite history, Discord/email alerts, and a terminal dashboard.
 - [sveltejs/ai-tools](https://github.com/sveltejs/ai-tools) ([@sveltejs/mcp@0.1.31](https://github.com/sveltejs/ai-tools/releases/tag/%40sveltejs/mcp%400.1.31), 1 week ago) - The official svelte MCP for all your agentic needs.
 - [Simplarix/dokploy-actions-runner](https://github.com/Simplarix/dokploy-actions-runner) ([v0.3.1](https://github.com/Simplarix/dokploy-actions-runner/releases/tag/v0.3.1), 1 week ago) - Community-maintained Dokploy template for self-hosted GitHub Actions runners, with non-root defaults and validated configuration.
 - [zFl4wless/ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) ([v22.0.4](https://github.com/zFl4wless/ngx-esy-jsonapi/releases/tag/v22.0.4), 2 weeks ago) - A lightweight Angular v20&#43; adapter for JSON API
